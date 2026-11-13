@@ -1,16 +1,59 @@
-# React + Vite
+TaskFlow – SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive SaaS landing page built for a Front-End Development Internship Assignment at Sankar Group.
 
-Currently, two official plugins are available:
+About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+TaskFlow is a productivity and project management platform concept designed to help individuals and teams organize tasks, manage projects, collaborate, and track progress.
 
-## React Compiler
+Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive navigation bar
+- Modern hero section
+- Feature cards
+- About and How It Works sections
+- Free and Pro pricing plans
+- Contact form with validation
+- Success message on form submission
+- Responsive footer
+- Mobile-friendly layout
 
-## Expanding the Oxlint configuration
+Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- Lucide React
+
+Installation
+
+1. Clone the repository:
+   
+   "git clone YOUR_GITHUB_REPOSITORY_URL"
+
+2. Navigate to the project directory:
+   
+   "cd taskflow"
+
+3. Install dependencies:
+   
+   "npm install"
+
+4. Start the development server:
+   
+   "npm run dev"
+
+5. Open the local URL shown in your terminal.
+
+Build
+
+Run "npm run build" to generate the production build in the "dist" directory.
+
+Live Demo
+
+Add your Vercel deployment URL here.
+
+Author
+
+Developed as part of the Sankar Group Front-End Development Internship Assignment.

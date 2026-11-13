@@ -7,7 +7,7 @@ TaskFlow is a modern, responsive SaaS landing page for a project management plat
 Developed as part of the Sankar Group Front-End Development Internship Assignment.
 
 🌐 Live Demo
-Live Website: https://taskflow-saas-landing-page-plum.vercel.app
+Live Website: https://taskflow-saas-landing-page-plum.vercel.app <br>
 GitHub Repository: https://github.com/ujjvalpandeytech/taskflow-saas-landing-page.git
 
 ✨ Features
@@ -31,10 +31,10 @@ GitHub Repository: https://github.com/ujjvalpandeytech/taskflow-saas-landing-pag
 
 ⚙️ Installation
 
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd taskflow
-npm install
-npm run dev
+git clone YOUR_GITHUB_REPOSITORY_URL <br>
+cd taskflow <br>
+npm install <br>
+npm run dev <br>
 
 Open "http://localhost:5173" in your browser.
 

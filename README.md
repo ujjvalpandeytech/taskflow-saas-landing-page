@@ -1,59 +1,50 @@
-TaskFlow – SaaS Landing Page
+🚀 TaskFlow – SaaS Landing Page
 
-A modern, responsive SaaS landing page built for a Front-End Development Internship Assignment at Sankar Group.
+Plan Smarter. Work Better. Achieve More.
 
-About the Project
+TaskFlow is a modern, responsive SaaS landing page for a project management platform. It helps teams organize tasks, manage projects, collaborate, and track productivity.
 
-TaskFlow is a productivity and project management platform concept designed to help individuals and teams organize tasks, manage projects, collaborate, and track progress.
+Developed as part of the Sankar Group Front-End Development Internship Assignment.
 
-Features
+🌐 Live Demo
+Live Website: https://taskflow-saas-landing-page-plum.vercel.app
+GitHub Repository: https://github.com/ujjvalpandeytech/taskflow-saas-landing-page.git
 
-- Responsive navigation bar
-- Modern hero section
-- Feature cards
-- About and How It Works sections
-- Free and Pro pricing plans
-- Contact form with validation
-- Success message on form submission
-- Responsive footer
-- Mobile-friendly layout
+✨ Features
 
-Technologies Used
+- Responsive navigation with mobile menu.
+- Modern hero section.
+- Feature cards and About section.
+- How It Works section.
+- Free and Pro pricing plans.
+- Contact form with validation.
+- Success message on form submission.
+- Responsive footer.
+
+🛠️ Tech Stack
 
 - React.js
 - Vite
-- Tailwind CSS
 - JavaScript
+- Tailwind CSS
 - Lucide React
 
-Installation
+⚙️ Installation
 
-1. Clone the repository:
-   
-   "git clone YOUR_GITHUB_REPOSITORY_URL"
+git clone YOUR_GITHUB_REPOSITORY_URL
+cd taskflow
+npm install
+npm run dev
 
-2. Navigate to the project directory:
-   
-   "cd taskflow"
+Open "http://localhost:5173" in your browser.
 
-3. Install dependencies:
-   
-   "npm install"
 
-4. Start the development server:
-   
-   "npm run dev"
+👨‍💻 Author
 
-5. Open the local URL shown in your terminal.
+Ujjval Pandey
 
-Build
+Front-End Development Internship Project – Sankar Group
 
-Run "npm run build" to generate the production build in the "dist" directory.
+📝 Note
 
-Live Demo
-
-Add your Vercel deployment URL here.
-
-Author
-
-Developed as part of the Sankar Group Front-End Development Internship Assignment.
+This is a frontend-only project. No backend or database integration is included.
